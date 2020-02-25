@@ -1,5 +1,5 @@
 # quasar-firebase-upload
- A working, barebones project showing implementation of user 'razbakov's QFirebaseUploader component. Original found here: https://gist.github.com/razbakov/378caedba3f24e3d8336442182528719
+ A working, barebones project showing implementation of user razbakov's QFirebaseUploader component. Original found here: https://gist.github.com/razbakov/378caedba3f24e3d8336442182528719
 
 I created the project with the Quasar CLI using default options, and added firebase to the project.  You will simply need to replace the dummy values in boot/firebase.js with your own firebase credentials.
 
